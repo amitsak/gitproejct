@@ -1,3 +1,7 @@
 const {
-    
+    try {
+        
+    } catch (error) {
+        
+    }
 }
