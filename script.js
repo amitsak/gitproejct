@@ -1,7 +1,3 @@
-const {
-    try {
-        
-    } catch (error) {
-        
-    }
-}
+const a = 50 ;
+const b = 20 ;
+  
